@@ -1,4 +1,4 @@
-# Zatanna-Ao3-Skin
+# Zatanna-AO3-Skin
 How To Add Skin:
 
 1. Copy the code
